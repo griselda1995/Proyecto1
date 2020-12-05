@@ -1,0 +1,75 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+body{
+	/*background-image: url(../img/slide6.jpg);*/
+	height: 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat ;
+}
+
+.color-nav{
+	background:#1E2431;
+}
+
+
+.seccion1{
+	background-color:  #eeeeee;
+}
+
+.parrafo{
+	padding: 50px;
+	text-align: center;
+	font-size: 20px;
+}
+
+
+.equipo{
+	padding-top: 30px;
+	text-align: center;
+	
+}
+
+.tarjetero{
+	padding: 20px;
+	text-align: center;
+
+}
+
+.fotos{
+	height: 200px;
+	width: 200px;
+	border-radius: 100%;
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+.colorlinea{
+	box-shadow: 1px 1px 1px 1px #dbf3ff;
+	background: #faf8f8;
+	margin-bottom: 30px;
+	padding-top: 15px;
+}
+
+
+.pagina{
+	color: rgb(167, 166, 166);
+	margin-top: 10px;
+}
+
+.cajaformulario{
+	height: 800px;
+	padding: 100px;
+}
+
+/*
+.img:hover {
+	-webkit-transform: rotateY(180deg);
+	-webkit-transform-style: preserve-3d;
+	transform: rotateY(180deg);
+	transform-style: preserve-3d;}*/
+
